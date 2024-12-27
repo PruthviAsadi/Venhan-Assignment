@@ -1,0 +1,24 @@
+/* Add necessary styles if required for your layout */
+.ReactFlow__viewport {
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+}
+
+button {
+  padding: 8px 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+input {
+  padding: 8px;
+  font-size: 16px;
+  margin-right: 10px;
+}
